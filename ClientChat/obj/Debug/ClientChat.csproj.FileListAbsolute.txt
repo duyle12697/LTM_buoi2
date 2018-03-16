@@ -1,0 +1,10 @@
+D:\LTMang\Buoi02\ClientChat\ClientChat\bin\Debug\ClientChat.exe.config
+D:\LTMang\Buoi02\ClientChat\ClientChat\bin\Debug\ClientChat.exe
+D:\LTMang\Buoi02\ClientChat\ClientChat\bin\Debug\ClientChat.pdb
+D:\LTMang\Buoi02\ClientChat\ClientChat\obj\Debug\ClientChat.csprojResolveAssemblyReference.cache
+D:\LTMang\Buoi02\ClientChat\ClientChat\obj\Debug\ClientChat.Form1.resources
+D:\LTMang\Buoi02\ClientChat\ClientChat\obj\Debug\ClientChat.Properties.Resources.resources
+D:\LTMang\Buoi02\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.GenerateResource.Cache
+D:\LTMang\Buoi02\ClientChat\ClientChat\obj\Debug\ClientChat.csproj.CoreCompileInputs.cache
+D:\LTMang\Buoi02\ClientChat\ClientChat\obj\Debug\ClientChat.exe
+D:\LTMang\Buoi02\ClientChat\ClientChat\obj\Debug\ClientChat.pdb
